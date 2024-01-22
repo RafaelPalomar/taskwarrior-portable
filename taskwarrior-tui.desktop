@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Taskwarrior-tui
+Exec=/usr/local/bin/taskwarrior-tui
+Icon=taskwarrior-tui
+Terminal=true
+Categories=Utility;
