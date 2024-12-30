@@ -1,5 +1,5 @@
 # Use the official Debian 12 image as the base
-FROM debian:12
+FROM quay.io/rafael_palomar/emacs-portable
 
 # Label the container
 LABEL maintainer="rafaelpalomaravalos@gmail.com"
